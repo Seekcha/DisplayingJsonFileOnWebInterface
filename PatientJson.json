@@ -1,0 +1,121 @@
+{
+   "patient": {
+      "patients": [
+         {
+            "img": "img/john.jpg", 
+            "filecode": "A0001",
+            "firstname": "John",
+            "lastname": "Doe",
+            "dob": "16/02/1998",
+            "gender": "Male",
+            "address": {
+               "street": "Royal Road",
+               "city": "Goodlands"
+            },
+            "phone": {
+               "cell": "59781548",
+               "home": "2836484",
+               "work": "4581068"
+            },
+            "email": "John@deo.com",
+            "medicalhistory": "Tumor cured by Dr Allen Black",
+            "allergies": "No allergies",
+            "bloodgroup": "AB-",
+            "maritalstatus": "Single",
+            "spousenamem": {
+               "firstname": "",
+               "lastname": ""
+            },
+            "occupation": {
+               "_field": "education",
+               "_text": "Teacher"              
+            },
+            "employ": {
+               "firstname": "Eriksen",
+               "lastname": "Marshall",
+               "phone": {
+                  "cell": "58907926",
+                  "home": "2893648",
+                  "work": "2785149"
+               },
+               "address": {
+                  "street": "T-shirt Road",
+                  "city": "Ebene"
+               }
+            },
+            "emergence": {
+               "firstname": "Saget",
+               "lastname": "Bob",
+               "address": {
+                  "street": "City Road",
+                  "city": "Port Louis"
+               },
+               "phone": {
+                  "cell": "57598345",
+                  "home": "2836789",
+                  "work": "2548468"
+               },
+               "email": "Bob@sa.com"
+               
+            }
+         },
+         {
+            "img": "img/penny.jpg", 
+            "filecode": "M8795",
+            "firstname": "Cooper",
+            "lastname": "Penny",
+            "dob": "03/03/1995",
+            "gender": "Female",
+            "address": {
+               "street": "Arya Mandir Road",
+               "city": "Rose Hill"
+            },
+            "phone": {
+               "cell": "57198029",
+               "home": "2497681",
+               "work": "4596321"
+            },
+            "email": "Ati@bla.com",
+            "medicalhistory": "No medical history",
+            "allergies": "peanuts",
+            "bloodgroup": "O-",
+            "maritalstatus": "Married",
+            "spousenamem": {
+               "firstname": "Cooper",
+               "lastname": "Sheldon"
+            },
+            "occupation": {
+               "_field": "health",
+               "_text": "Nurse"
+            },
+            "employ": {
+               "firstname": "Wolowitz",
+               "lastname": "Robin",
+               "phone": {
+                  "cell": "58269861",
+                  "home": "2836948",
+                  "work": "2464789"
+               },
+               "address": {
+                  "street": "Atlas street",
+                  "city": "Plain Verte"
+               }
+            },
+            "emergence": {
+               "firstname": "Cooper",
+               "lastname": "Tom",
+               "address": {
+                  "street": "Point Road",
+                  "city": "Point Aux Sable"
+               },
+               "phone": {
+                  "cell": "57019706",
+                  "home": "2458364",
+                  "work": "2157977"
+               },
+               "email": "Tom@gm.com"
+            }
+         }
+      ]
+   }
+}
